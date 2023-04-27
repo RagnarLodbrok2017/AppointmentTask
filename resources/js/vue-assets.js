@@ -26,6 +26,3 @@ window.SwalHelper = SwalHelper;
 import GeneralFunctions from "./Helpers/GeneralFunctions";
 window.GeneralFunctions = GeneralFunctions;
 
-//vue DropZone
-import vue2Dropzone from 'vue2-dropzone'
-import 'vue2-dropzone/dist/vue2Dropzone.min.css'
